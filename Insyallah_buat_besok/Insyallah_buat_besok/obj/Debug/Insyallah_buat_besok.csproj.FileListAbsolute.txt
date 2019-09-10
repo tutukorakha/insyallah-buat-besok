@@ -1,0 +1,17 @@
+c:\users\nio\documents\visual studio 2015\Projects\Insyallah_buat_besok\Insyallah_buat_besok\bin\Debug\Insyallah_buat_besok.exe.config
+C:\Users\nio\documents\visual studio 2015\Projects\Insyallah_buat_besok\Insyallah_buat_besok\obj\Debug\Interop.WMPLib.dll
+C:\Users\nio\documents\visual studio 2015\Projects\Insyallah_buat_besok\Insyallah_buat_besok\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\nio\documents\visual studio 2015\Projects\Insyallah_buat_besok\Insyallah_buat_besok\obj\Debug\Insyallah_buat_besok.csproj.ResolveComReference.cache
+C:\Users\nio\documents\visual studio 2015\Projects\Insyallah_buat_besok\Insyallah_buat_besok\bin\Debug\Insyallah_buat_besok.exe
+C:\Users\nio\documents\visual studio 2015\Projects\Insyallah_buat_besok\Insyallah_buat_besok\bin\Debug\Insyallah_buat_besok.pdb
+C:\Users\nio\documents\visual studio 2015\Projects\Insyallah_buat_besok\Insyallah_buat_besok\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\nio\documents\visual studio 2015\Projects\Insyallah_buat_besok\Insyallah_buat_besok\bin\Debug\Interop.WMPLib.dll
+C:\Users\nio\documents\visual studio 2015\Projects\Insyallah_buat_besok\Insyallah_buat_besok\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nio\documents\visual studio 2015\Projects\Insyallah_buat_besok\Insyallah_buat_besok\obj\Debug\Insyallah_buat_besok.csprojResolveAssemblyReference.cache
+C:\Users\nio\documents\visual studio 2015\Projects\Insyallah_buat_besok\Insyallah_buat_besok\obj\Debug\Insyallah_buat_besok.Form1.resources
+C:\Users\nio\documents\visual studio 2015\Projects\Insyallah_buat_besok\Insyallah_buat_besok\obj\Debug\Insyallah_buat_besok.Properties.Resources.resources
+C:\Users\nio\documents\visual studio 2015\Projects\Insyallah_buat_besok\Insyallah_buat_besok\obj\Debug\Insyallah_buat_besok.csproj.GenerateResource.Cache
+C:\Users\nio\documents\visual studio 2015\Projects\Insyallah_buat_besok\Insyallah_buat_besok\obj\Debug\Insyallah_buat_besok.exe
+C:\Users\nio\documents\visual studio 2015\Projects\Insyallah_buat_besok\Insyallah_buat_besok\obj\Debug\Insyallah_buat_besok.pdb
+C:\Users\nio\documents\visual studio 2015\Projects\Insyallah_buat_besok\Insyallah_buat_besok\obj\Debug\Insyallah_buat_besok.Form2.resources
+C:\Users\nio\documents\visual studio 2015\Projects\Insyallah_buat_besok\Insyallah_buat_besok\obj\Debug\Insyallah_buat_besok.Form3.resources

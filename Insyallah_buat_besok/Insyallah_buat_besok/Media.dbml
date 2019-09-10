@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Media" Class="MediaDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=NIO-PC\SQLEXPRESS;Initial Catalog=Media;Integrated Security=True" SettingsObjectName="Insyallah_buat_besok.Properties.Settings" SettingsPropertyName="MediaConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Pengguna" Member="Penggunas">
+    <Type Name="Pengguna">
+      <Column Name="IDPengguna" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NamaPengguna" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Username" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
